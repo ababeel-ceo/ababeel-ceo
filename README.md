@@ -8,7 +8,7 @@ Software Engineer with **3+ years of professional experience** designing, develo
 
 I have delivered systems across **Identity and Access Management, B2B insurance, workflow automation, and customer service**, including platforms that processed **5.7M+ financial transactions** and reduced manual policy processing by **80%**.
 
-> **Open to:** Full Stack Engineer, Backend Engineer, and AI Engineering opportunities
+> Exploring modern software engineering through reliable systems, AI-native development, and continuous learning.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdullathepro.online-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdullathepro.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdullathepro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abdullathepro)
@@ -22,7 +22,7 @@ I have delivered systems across **Identity and Access Management, B2B insurance,
 | --- | --- |
 | Current role | Software Developer at Vivant360 Software Services |
 | Experience | January 2023 - Present · 3+ years |
-| Location | Tamil Nadu, India · Open to remote |
+| Location | Tamil Nadu, India |
 | Education | Master of Computer Applications · CGPA 8.6 |
 | Delivery scope | 6+ enterprise applications across 4 business domains |
 | Leadership | Led a 6-member engineering delivery team |
@@ -112,9 +112,9 @@ Practicing data structures and algorithms to strengthen problem-solving, complex
 
 ## Selected work
 
-### AbdullaX — Recruiter-Facing RAG Assistant
+### AbdullaX — Grounded AI Assistant
 
-An AI assistant built and deployed to answer recruiter questions with grounded, source-backed responses. Designed as a five-step LangGraph pipeline with query reformulation, FAQ routing, category-filtered retrieval, grounded generation, and graceful fallbacks.
+An AI assistant built and deployed on my portfolio to answer questions about my work with grounded, source-backed responses. Designed as a five-step LangGraph pipeline with query reformulation, FAQ routing, category-filtered retrieval, grounded generation, and graceful fallbacks.
 
 **Built with:** Python · FastAPI · LangGraph · ChromaDB · MiniLM/ONNX · Groq · Claude · pytest · Render
 
@@ -183,7 +183,7 @@ I am an evolving modern software engineer combining strong software fundamentals
 
 ## Let's connect
 
-I am open to opportunities where I can own enterprise software, solve meaningful backend and full-stack problems, and bring practical AI-powered automation into real products.
+I enjoy connecting with engineers, builders, and curious people who care about reliable systems, developer tooling, and practical AI. If something here helps you, or you see a problem worth building together, say hello.
 
 - 📧 [abdullahsmsapk@gmail.com](mailto:abdullahsmsapk@gmail.com)
 - 🌐 [abdullathepro.online](https://abdullathepro.online/)
