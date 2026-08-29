@@ -27,6 +27,7 @@ I have delivered systems across **Identity and Access Management, B2B insurance,
 | Delivery scope | 6+ enterprise applications across 4 business domains |
 | Leadership | Led a 6-member engineering delivery team |
 | Current focus | Backend engineering, full-stack delivery, and practical AI automation |
+| AI-native workflow | Codex Cloud, OpenCode, and responsible AI-assisted development |
 
 ## Impact at a glance
 
@@ -93,7 +94,9 @@ I have delivered systems across **Identity and Access Management, B2B insurance,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-### AI and emerging work
+### AI-native development and emerging work
+
+**AI-native development:** Codex Cloud, OpenCode, FastAPI, LangGraph, Retrieval-Augmented Generation (RAG), ChromaDB, MiniLM/ONNX, Groq, Claude, pytest, Render
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -168,6 +171,8 @@ St. Xavier's College, Tirunelveli, India · **CGPA: 8.6** · Graduated 2023
 - AWS services including EC2, S3, and RDS; Docker and Jenkins CI/CD
 
 ## Engineering approach
+
+I am an evolving modern software engineer combining strong software fundamentals with AI-native development workflows. I use coding agents such as **Codex Cloud** and **OpenCode** to accelerate research, implementation, debugging, testing, and iteration - while retaining ownership through code review, validation, and engineering judgment.
 
 - Start with the business problem and measure outcomes, not lines of code.
 - Own delivery end to end: requirements, architecture, implementation, UI, deployment, and production support.
