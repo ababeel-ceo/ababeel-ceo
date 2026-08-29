@@ -1,27 +1,32 @@
-# Hi, I'm Abdulla B 👋
+# Abdulla B
 
-### Software Engineer · Full Stack Engineer · Backend Engineer
+### Software Engineer | Java Backend | Full Stack Development
 
-I build enterprise software that automates business operations and improves customer experience.
+> Building secure, scalable enterprise software that automates business operations and improves customer experience.
 
-Full-stack Software Engineer with **3+ years of experience** delivering production applications across Identity & Access Management, insurance operations, workflow automation, and customer-service platforms. I work across the stack—from React interfaces to secure Spring Boot services and the data layer beneath them—and I enjoy turning complex operational problems into reliable, maintainable systems.
+Software Engineer with **3+ years of professional experience** designing, developing, modernizing, and supporting production-grade enterprise applications. Currently working at **Vivant360 Software Services**, with hands-on experience across **Java, Spring Boot, REST APIs, microservices, React, MySQL/MariaDB, Redis, Kafka, and AWS**.
+
+I have delivered systems across **Identity and Access Management, B2B insurance, workflow automation, and customer service**, including platforms that processed **5.7M+ financial transactions** and reduced manual policy processing by **80%**.
+
+> **Open to:** Full Stack Engineer, Backend Engineer, and AI Engineering opportunities
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdullathepro.online-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdullathepro.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdullathepro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/abdullathepro)
 [![GitHub](https://img.shields.io/badge/GitHub-ababeel--ceo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ababeel-ceo)
 [![LeetCode](https://img.shields.io/badge/LeetCode-abdullahsmsapk-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/abdullahsmsapk/)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://abdullathepro.online/Abdulla.pdf)
 
-## About me
+## Professional snapshot
 
-- Software Engineer at **Vivant360 Software Services**
-- Software Developer at Vivant360 since **January 2023**
-- Led a **6-member team** across design, implementation, delivery, and production support
-- Delivered **6+ enterprise applications** across four business domains
-- Master of Computer Applications from **St. Xavier's College**, graduated 2023 with a **CGPA of 8.6**
-- Strong focus on secure backend systems, workflow automation, and business-first engineering
-- Currently exploring **Agentic AI, Generative AI, AI tooling, and intelligent automation**
-- Based in **Tamil Nadu, India** · Open to remote opportunities
-- Open to **Full Stack, Backend, and AI Engineering** roles
+| | |
+| --- | --- |
+| Current role | Software Developer at Vivant360 Software Services |
+| Experience | January 2023 - Present · 3+ years |
+| Location | Tamil Nadu, India · Open to remote |
+| Education | Master of Computer Applications · CGPA 8.6 |
+| Delivery scope | 6+ enterprise applications across 4 business domains |
+| Leadership | Led a 6-member engineering delivery team |
+| Current focus | Backend engineering, full-stack delivery, and practical AI automation |
 
 ## Impact at a glance
 
@@ -37,7 +42,25 @@ Full-stack Software Engineer with **3+ years of experience** delivering producti
 | Enterprise applications delivered | **6+** |
 | Team members led | **6** |
 
+## Experience
+
+### Software Developer - Vivant360 Software Services
+
+**January 2023 - Present · Tirunelveli, India**
+
+- Led development across client engagements, delivering robust enterprise systems and production-grade platforms.
+- Architected and delivered an end-to-end **B2B insurance portal** using Java, Spring Boot, Hibernate, MySQL, Redis, and React, reducing manual policy processing by **80%**.
+- Re-architected core backend services and optimized complex MySQL queries, scaling quote throughput from **2.5M to 5.7M+ transactions**.
+- Implemented Redis caching for high-traffic services, reducing database load and improving API response speeds by **30%**.
+- Decoupled high-throughput workflows with Redis Streams and Consumer Groups, reducing quote and approval times by **40%**.
+- Consolidated scattered internal APIs into a unified REST endpoint for external aggregators, accelerating transaction processing by **70%**.
+- Modernized the enterprise architecture to **Java 21** and **Spring Boot 3.5.10**, including unified global exception handling for maintainability and faster application startup.
+- Built responsive React frontends with optimized state management and routing to deliver consistent partner and customer experiences.
+- Coordinated design, implementation, production support, and stakeholder communication while leading a **6-member team**.
+
 ## Tech stack
+
+**Core stack:** Java, Spring Boot, Spring Security, REST APIs, Microservices, Hibernate, React.js, JavaScript, MySQL, MariaDB, Redis, Apache Kafka, AWS
 
 ### Backend and architecture
 
@@ -78,6 +101,12 @@ Full-stack Software Engineer with **3+ years of experience** delivering producti
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
+## LeetCode
+
+Practicing data structures and algorithms to strengthen problem-solving, complexity analysis, and coding fundamentals.
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/abdullahsmsapk?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/abdullahsmsapk/)
+
 ## Selected work
 
 ### AbdullaX — Recruiter-Facing RAG Assistant
@@ -114,7 +143,7 @@ A Kafka and Redis-based event-processing architecture for managing workloads and
 
 [Explore all case studies on my portfolio →](https://abdullathepro.online/#work)
 
-## Awards and achievements
+## Awards and recognition
 
 - **Outstanding Excellence Award (2023)** at Vivant360 — built and launched an automated B2B insurance platform that reduced manual processing by 80%.
 - **Client Recognition Award (2024)** at RAK Insurance, Dubai — delivered backend enhancements that reduced complaint-resolution time by 40%.
@@ -138,17 +167,18 @@ St. Xavier's College, Tirunelveli, India · **CGPA: 8.6** · Graduated 2023
 - Data structures and algorithms, distributed systems, and Agile/Scrum delivery
 - AWS services including EC2, S3, and RDS; Docker and Jenkins CI/CD
 
-## How I work
+## Engineering approach
 
-- Start with the business problem and measure outcomes, not lines of code
-- Own delivery end to end: requirements, architecture, implementation, UI, deployment, and production support
-- Prefer secure, maintainable, and auditable designs that hold up in live systems
-- Use AI as an engineering multiplier while validating generated solutions through review and testing
-- Keep learning across domains and stacks when the problem calls for it
+- Start with the business problem and measure outcomes, not lines of code.
+- Own delivery end to end: requirements, architecture, implementation, UI, deployment, and production support.
+- Design for security, maintainability, scalability, and auditability from the beginning.
+- Communicate clearly with engineering, operations, and business stakeholders during delivery and incidents.
+- Use AI as an engineering multiplier while validating generated solutions through code review and testing.
+- Learn unfamiliar domains and technologies quickly when the problem requires it.
 
 ## Let's connect
 
-I’m open to opportunities where I can own enterprise software, solve meaningful backend and full-stack problems, and bring practical AI-powered automation into real products.
+I am open to opportunities where I can own enterprise software, solve meaningful backend and full-stack problems, and bring practical AI-powered automation into real products.
 
 - 📧 [abdullahsmsapk@gmail.com](mailto:abdullahsmsapk@gmail.com)
 - 🌐 [abdullathepro.online](https://abdullathepro.online/)
