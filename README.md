@@ -125,11 +125,11 @@ A Kafka and Redis-based event-processing architecture for managing workloads and
 **Master of Computer Applications (MCA)**  
 St. Xavier's College, Tirunelveli, India · **CGPA: 8.6** · Graduated 2023
 
-## Certifications
+## Production reliability and incident management
 
-- **Spring Professional** — VMware Tanzu · 2024
-- **AWS Cloud Practitioner** — Amazon Web Services · 2024
-- **Oracle Certified Java SE** — Oracle · 2023
+- Prepare structured **Root Cause Analysis (RCA)** reports for production incidents, covering business impact, incident timeline, contributing factors, and evidence-backed root causes.
+- Define and track **corrective and preventive actions (CAPA)** with clear owners, priorities, deadlines, and validation criteria to prevent recurrence.
+- Collaborate with engineering, operations, and business stakeholders on incident communication, recovery follow-up, and continuous improvement.
 
 ## Engineering strengths
 
