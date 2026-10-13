@@ -4,7 +4,7 @@
 
 > Building secure, scalable enterprise software that automates business operations and improves customer experience.
 
-Software Engineer with **3+ years of professional experience** designing, developing, modernizing, and supporting production-grade enterprise applications. Currently working at **Vivant360 Software Services**, with hands-on experience across **Java, Spring Boot, REST APIs, microservices, React, MySQL/MariaDB, Redis, Kafka, and AWS**.
+Software Engineer with **nearly 4 years of professional experience** designing, developing, modernizing, and supporting production-grade enterprise applications. Currently working at **Vivant360 Software Services**, with hands-on experience across **Java, Spring Boot, REST APIs, microservices, React, MySQL/MariaDB, Redis, Kafka, and AWS**.
 
 I have delivered systems across **Identity and Access Management, B2B insurance, workflow automation, and customer service**, including platforms that processed **5.7M+ financial transactions** and reduced manual policy processing by **80%**.
 
